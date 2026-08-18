@@ -1,0 +1,6 @@
+# 작성자 명부
+# 글 front matter의 `author:` / `authors:` 값이 아래 key와 매칭됩니다.
+# (지금은 1편 front matter에 적힌 값과 같은 key를 그대로 등록해 둠)
+"김관수 (올리브스톤)":
+  name: "김관수 (올리브스톤)"
+  url: https://www.olivestonelab.com/   # 이름에 링크를 걸고 싶으면 주석 해제
