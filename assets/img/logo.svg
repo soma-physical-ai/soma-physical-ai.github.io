@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SOMA-σωμα main logo</title>
+  <desc id="desc">A single black monogram combining a Latin S and Greek sigma with sharply cut terminals.</desc>
+  <defs>
+    <mask id="sigma-cutout" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+      <rect width="512" height="512" fill="white"/>
+      <path fill="black" d="M218 323h84c31 0 50 14 50 38s-19 39-50 39h-84c-25 0-40-14-40-38 0-25 15-39 40-39Z"/>
+    </mask>
+  </defs>
+  <g fill="#000000" mask="url(#sigma-cutout)">
+    <path d="M405 67l-25 48H181c-45 0-73 25-73 61 0 34 27 55 72 59l124 11c31 3 57 13 78 31l-37 43c-14-12-31-18-53-20l-118-10c-75-7-121-49-121-113 0-68 52-112 127-112h225Z"/>
+    <path d="M97 444l27-50h88c-37-2-61-20-61-49 0-34 29-57 70-57h83c62 0 104 30 104 75 0 50-40 81-104 81H97Z"/>
+  </g>
+</svg>
